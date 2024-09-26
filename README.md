@@ -6,6 +6,8 @@ Welcome to GitTogether Bengaluru – the ultimate gathering for developers in an
 
 Join us to engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of your skill level.
 
+[![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-bengaluru)
+
 -------------
 
 - **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Bengaluru group](https://www.meetup.com/gittogether-bengaluru) on Meetup.
