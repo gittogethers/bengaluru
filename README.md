@@ -40,15 +40,19 @@ Join us in shaping the future of software development and connecting with Bengal
 
 ## Upcoming Events
 
+### To Be Announced
+
+-------------
+
+## Past Events
+
 ### GitTogether Bengaluru - 28th September 2024
 - [Event Link](https://www.meetup.com/gittogether-bengaluru/events/303522982/)
 - [Event Resources](./GitTogether%20Bengaluru%202024-09-28)
 
 [![September 2024 Event](/assets/2024-09-28.png)](https://www.meetup.com/gittogether-bengaluru/events/303522982/)
 
--------------
-
-## Past Events
+--------
 
 ### GitTogether Bengaluru - 24th August 2024
 - [Event Link](https://www.meetup.com/gittogether-bengaluru/events/302784046/)
